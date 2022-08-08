@@ -1,0 +1,4 @@
+file/folder rename = mv oldname / new name
+
+
+move file /folder = mv file_name destination
